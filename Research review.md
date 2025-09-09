@@ -50,4 +50,4 @@ _Trong đó:_
 - NTD trẻ có xu hướng mua sắm trực tuyến tăng cao, nhiều quyết định mua được thực hiện nhanh chóng, không có kế hoạch
 - Niềm tin ảnh hưởng tích cực đến hành vi mua sắm không kiểm soát của Gen Z, đôi khi họ mua hàng chỉ dựa vào niềm tin
 
-<p align="center"><img width="1037" height="654" alt="image" src="https://github.com/user-attachments/assets/76c5c931-717a-4211-bbaf-296b91a95ca9" /></p>
+<p align="center"><img width="993" height="649" alt="image" src="https://github.com/user-attachments/assets/3c39742c-bd41-4f29-8472-f2f65713e1ad" /></p>
